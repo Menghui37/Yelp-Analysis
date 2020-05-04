@@ -10,6 +10,9 @@ The following are screenshots of yelp-cluster and Analysis notebook
 <img width="958" alt="notebook" src="https://user-images.githubusercontent.com/57785809/81002960-191e5900-8e18-11ea-9df9-dee5086521d3.png">
 
 
+## s3 path
+https://s3.console.aws.amazon.com/s3/buckets/yelpdata.1/?region=us-east-2
+
 
 ## Analysis
 ### Most common business categories(top 20)
