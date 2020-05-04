@@ -1,7 +1,7 @@
 # Yelp Data Analysis
 ## Analysis on Yelp's Business, Review and User data.
 
-Yelp datasets(business, review and user) were obtained from Kaggle. Datasets were downloaded and uploaded on AWS s3 for AWS EMR access. A Spark cluster, yelp-cluster, and a Jupyter Notebook, Analysis, were created to analyze these datasets. Detailed analysis code and outputs can be found in Analysis.ipynb.
+Yelp datasets(business, review and user) were obtained from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset#yelp_academic_dataset_user.json). Datasets were downloaded and uploaded on AWS s3 for AWS EMR access. A Spark cluster, yelp-cluster, and a Jupyter Notebook, Analysis, were created to analyze these datasets. Detailed analysis code and outputs can be found in Analysis.ipynb.
 The following are screenshots of yelp-cluster and Analysis notebook
 
 
