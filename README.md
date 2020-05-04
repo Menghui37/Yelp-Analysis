@@ -6,3 +6,11 @@ The following are screenshots of yelp-cluster and Analysis notebook
 
 
 <img width="704" alt="cluster" src="https://user-images.githubusercontent.com/57785809/80971615-093c5000-8deb-11ea-9296-70201d1b455e.png">
+
+
+
+## Analysis
+### Most common business categories(top 20)
+### Do yelp reviews skew negative?
+### Do useful users find other reviews more useful?
+### Do useful users give out more stars?
