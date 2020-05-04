@@ -5,7 +5,9 @@ Yelp datasets(business, review and user) were obtained from Kaggle. Datasets wer
 The following are screenshots of yelp-cluster and Analysis notebook
 
 
-<img width="704" alt="cluster" src="https://user-images.githubusercontent.com/57785809/80971615-093c5000-8deb-11ea-9296-70201d1b455e.png">
+<img width="960" alt="cluster" src="https://user-images.githubusercontent.com/57785809/81002951-16bbff00-8e18-11ea-83ec-51ebd0530082.png">
+
+<img width="958" alt="notebook" src="https://user-images.githubusercontent.com/57785809/81002960-191e5900-8e18-11ea-9df9-dee5086521d3.png">
 
 
 
